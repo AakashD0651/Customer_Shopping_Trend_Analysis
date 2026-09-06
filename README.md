@@ -10,7 +10,9 @@ Customer Segmentation (Python) — Grouped customers based on behavioral metrics
 Exploratory Data Analysis — Visualized spending patterns, category preferences, and purchase frequency across segments.
 Insights & Recommendations — Translated findings into business-relevant takeaways.
 <br>
+<br>
 --FUTURE IMPROVEMENTS
+<br>
 <br>
 Incorporate predictive modeling (e.g. churn prediction, CLV forecasting)
 Build an interactive dashboard (Power BI / Streamlit) for real-time exploration
