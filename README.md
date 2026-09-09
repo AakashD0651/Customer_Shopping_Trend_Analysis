@@ -16,5 +16,5 @@ Insights & Recommendations — Translated findings into business-relevant takeaw
 <br>
 Incorporate predictive modeling (e.g. churn prediction, CLV forecasting)
 Build an interactive dashboard (Power BI / Streamlit) for real-time exploration
-Expand segmentation with clustering algorithms (K-Means)
+Expand segmentation with clustering algorithms (K-Means).
 
